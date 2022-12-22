@@ -40,6 +40,7 @@ Artisan messages are terminated with a Carriage Return, Line Feed, Carriage Retu
 
 ArtisanDB has pending features on the roadmap and in active development. In order of priority, these are the features in active development:
 
+- SCRAM Auth
 - TLS support
 - Persistent storage even after restarts
 - TTL support for stored data
