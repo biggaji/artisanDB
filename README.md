@@ -12,7 +12,7 @@ The database server will be started and will be available at `localhost:3333`
 
 ## Usage
 
-ArtisanDB currently supports 5 major operations. `GET`, `SET`, `COUNT`, `ALL`
+ArtisanDB currently supports 5 major operations. `GET`, `SET`, `COUNT`, `ALL`, `KEYS`
 
 ArtisanDB exposes its API through a simple TCP server which accepts simple messages.
 
